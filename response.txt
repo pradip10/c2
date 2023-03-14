@@ -1,0 +1,26 @@
+Top 20 stories
++-------+------------------------------------------------------------------------------+
+| Score |                                    Story                                     |
++-------+------------------------------------------------------------------------------+
+|  2249 |                                    GPT-4                                     |
+|  1693 | Joint statement by the Department of the Treasury, Federal Reserve, and FDIC |
+|  932  |                     Meta plans to lay off 10k employees                      |
+|  898  |   Launch HN: Electric Air (YC W23) – Heat pump sold directly to homeowners   |
+|  804  |   Dalai: Automatically install, run, and play with LLaMA on your computer    |
+|  709  |                    TypeScripting the technical interview                     |
+|  645  |                Advanced Compilers: Self-Guided Online Course                 |
+|  629  |           Alpaca: A strong open-source instruction-following model           |
+|  613  |                  Experian is a pile of dark pattern garbage                  |
+|  608  |                   Using LLaMA with M1 Mac and Python 3.11                    |
+|  588  |                                Changes at YC                                 |
+|  527  |            Google Reader shut down announced ten years ago today             |
+|  525  |            Launch HN: Pynecone (YC W23) – Web Apps in Pure Python            |
+|  512  |     Improved audio rendering with an optimised version of memcpy (2013)      |
+|  487  |    Yellen says government will help SVB depositors but rules out bailout     |
+|  384  |                                  Lo-Fi ATC                                   |
+|  381  |                 NordVPN library and client code open-sourced                 |
+|  368  |       “Healthy obesity” doesn’t exist. It is unequivocally bad for you       |
+|  346  |              Microsoft lays off one of its responsible AI teams              |
+|  329  |                          Switching from C++ to Rust                          |
++-------+------------------------------------------------------------------------------+
+python3 challenge2.py  10.99s user 0.81s system 5% cpu 3:17.82 total
